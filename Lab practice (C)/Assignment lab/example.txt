@@ -1,1 +1,0 @@
-Hello, this is a file I/O example in C!
